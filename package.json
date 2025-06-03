@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^4.13.2",
-    "eslint": "^9.28.0"
+    "eslint": "^9.28.0",
+    "eslint-plugin-format": "^1.0.1"
   }
 }
